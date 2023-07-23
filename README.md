@@ -1,6 +1,6 @@
 # Quantmacro_second_half
 
-## final upload 2023/07/24
+## Final upload: 2023/07/24
 
 ## About this repository
 This repository contains the final assignment for the Quantitative Macroeconomics(a) class.
